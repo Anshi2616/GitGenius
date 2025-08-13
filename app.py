@@ -34,3 +34,8 @@ with app.app_context():
     import models  # noqa: F401
     db.create_all()
     logging.info("Database tables created")
+
+@app.route("/")
+def home():
+    return "Test Case Generator is live! 🚀"
+
