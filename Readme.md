@@ -365,7 +365,7 @@ This project is licensed under the MIT License.
 
 ### MIT License
 
-Copyright (c) 2025 Rishab (being-souL1230)
+Copyright (c) 2025 Anshi (Anshi2616)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -375,7 +375,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### Creator
 
-**Rishab** - [being-souL1230](https://github.com/being-souL1230)
+**Anshi** - [Anshi2616](https://github.com/Anshi2616)
 
 Project Repository: [GitGenius](https://github.com/being-souL1230/AI-GitGenius)
 
